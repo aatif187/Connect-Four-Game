@@ -157,7 +157,7 @@ $('.board button').on('click',function() {
 //   // This is a way to grab a particular cell (replace):
 //   // $('table').eq(rowIndex).find('td').eq(colIndex)
 // });
-
+//
 // // Change color on click
 // $('.board button').on('click',function() {
 //   if($(this).css('background-color') === 'rgb(51, 51, 51)'){
